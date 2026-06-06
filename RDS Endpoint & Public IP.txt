@@ -1,0 +1,7 @@
+RDS Endpoint & Public IP
+
+RDS Endpoint : travelapp-database.cklo6m6m05cp.us-east-1.rds.amazonaws.com
+
+Public IP : 13.217.36.169
+
+Website : http://13.217.36.169
